@@ -1,0 +1,117 @@
+.main-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  flex-wrap: wrap;
+}
+
+.currency-container {
+  background-color: #150b3e;
+  height: 80vh;
+  width: 65vw;
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.name-container {
+  margin-left: 30px;
+  margin-top: 30px;
+  display: flex;
+  align-self: flex-start;
+  justify-content: flex-start;
+}
+.profile-pic {
+  background-color: #c7d2fe;
+  height: 60px;
+  width: 60px;
+  border-radius: 30px;
+  color: #7c3aed;
+  text-align: center;
+}
+
+.heading {
+  font-size: 20px;
+}
+.name {
+  font-style: 'Roboto';
+  font-size: 26px;
+  margin-left: 20px;
+  margin-top: 5px;
+  color: #c7d2fe;
+}
+
+.balance-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.your-balance {
+  color: #585076;
+  font-size: 22px;
+  font-weight: bold;
+  margin: 30px;
+}
+
+.sixteen-fifty {
+  color: #ffffff;
+  font-size: 25px;
+  font-weight: bold;
+}
+.rupees-container {
+  justify-content: center;
+  align-items: flex-start;
+  margin-left: 40px;
+}
+
+.in-rupees {
+  color: #585076;
+  font-size: 15px;
+  font-family: 'Roboto';
+  font-weight: bold;
+  margin-right: 50px;
+}
+.withdraw {
+  align-self: flex-start;
+  justify-content: start;
+  margin-left: 40px;
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 25px;
+}
+
+.sum-rupees {
+  align-self: flex-start;
+  justify-content: start;
+  margin-left: 40px;
+  color: #585076;
+  font-family: 'Roboto';
+  font-size: 25px;
+}
+.button {
+  height: 6vh;
+  width: 15vw;
+  border: 1px solid #c7d2fe;
+  color: #ffffff;
+  border-radius: 10px;
+  background-color: #585076;
+  margin: 10px;
+  cursor: pointer;
+  outline: none;
+}
+
+.button-container {
+  align-self: flex-start;
+  justify-content: start;
+}
+
+.buttons-List {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
